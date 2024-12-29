@@ -1,2 +1,13 @@
+### Formats ###
 *.css
+*.mp3
+*.mp4
+*.png
+
+### Files ###
 main.html
+page.html
+help.md
+
+### Folders ###
+/giv
